@@ -1,10 +1,10 @@
 Data;Prelevante;Materiale;UnitaMisura;Quantit…;Note
-20/04/2018;Caputo Federica;Tela Leggera;Mt.;26;
-20/04/2018;Chiodaroli Maria Alessandra;Tela Leggera;Mt.;18;
-20/04/2018;Di Giacomo Caterina;Squadretta;Nø.;50;
 17/04/2018;Chiodaroli Maria Alessandra;Tela Leggera;Mt.;18;
 17/04/2018;Caputo Federica;Tela Leggera;Mt.;26;
 18/04/2018;Licata Rosa;Bindello bianco;Nø.;3;da consegnare a Daniela
+20/04/2018;Caputo Federica;Tela Leggera;Mt.;26;
+20/04/2018;Chiodaroli Maria Alessandra;Tela Leggera;Mt.;18;
+20/04/2018;Di Giacomo Caterina;Squadretta;Nø.;50;
 26/04/2018;Licata Rosa;Tessuto n.5;Mt.;2;
 26/04/2018;Licata Rosa;Adesivo Strech Bianco;Mt.;1;
 26/04/2018;Saldakeeva Elena;Adesivo Leggero Bianco;Mt.;1;
@@ -13,10 +13,10 @@ Data;Prelevante;Materiale;UnitaMisura;Quantit…;Note
 07/05/2018;Bertolotti Daniela;Tessuto lana a quadri;Mt.;1;
 07/05/2018;Cristina Sarah;Tela Leggera;Mt.;2;
 08/05/2018;Marsicovetere Maria;Tessuto a quadri;Mt.;1,1;
+08/05/2018;Curr• Gaetano;Spilii;Scatole;1;
 09/05/2018;Lanzi Patrizia;Tessuto n 10;Mt.;0,8;
 09/05/2018;Di Giacomo Caterina;Scalimetri;Nø.;43;
 10/05/2018;Puzziferri Domenico;Adesivo Pesante Bianco;Mt.;1,5;
-08/05/2018;Curr• Gaetano;Spilii;Scatole;1;
 11/05/2018;Bertolotti Daniela;Adesivo Leggero nero;Mt.;80;
 11/05/2018;Segreteria;Scotch Magic;Nø.;5;
 15/05/2018;Saldakeeva Elena;Rocche filo nero;Nø.;7;
@@ -38,16 +38,16 @@ Data;Prelevante;Materiale;UnitaMisura;Quantit…;Note
 04/06/2018;Licata Rosa;Silesia Bianca;Mt.;60;
 04/06/2018;Licata Rosa;Adesivo Strech Bianco;Mt.;10;
 09/06/2018;Bertolotti Daniela;Tela Leggera;Mt.;7;
-12/06/2018;Di Giacomo Caterina;Tela Leggera;Mt.;26;
 11/06/2018;Cristina Sarah;Adesivo Leggero Bianco;Mt.;50;
+12/06/2018;Di Giacomo Caterina;Tela Leggera;Mt.;26;
 12/06/2018;Lanzi Patrizia;Adesivo Strech Bianco;Mt.;5;
 12/06/2018;Lanzi Patrizia;tessuto n.5;Mt.;3;
 14/06/2018;Licata Rosa;Adesivo Strech Bianco;Mt.;15;
 18/06/2018;Di Cristofaro Angelo;Bic Nere;Nø.;15;
 18/06/2018;Curr• Gaetano;Porta Abiti Lunghi Soffietto;Nø.;2;
 19/06/2018;Licata Rosa;Tela Pesante;Mt.;50;
-20/06/2018;Lanzi Patrizia;Tela Pesante;Mt.;50;
 19/06/2018;Lanzi Patrizia;Melton;Mt.;?;
+20/06/2018;Lanzi Patrizia;Tela Pesante;Mt.;50;
 22/06/2018;Lanzi Patrizia;Silesia Nera;Mt.;0,5;
 22/06/2018;Lanzi Patrizia;Tessuto n 10;Mt.;1,4;
 22/06/2018;Segreteria;Punri graffettatrice;Nø.;10000;
@@ -72,3 +72,14 @@ Data;Prelevante;Materiale;UnitaMisura;Quantit…;Note
 10/10/2018;Paganotto Stefania;Tela Leggera;Mt.;40;
 10/10/2018;Marsicovetere Maria;Bindello bianco;Nø.;1;
 11/10/2018;ESAMI;Tela Leggera;Mt.;15;
+11/10/2018;ESAMI;Melton;Mt.;2;
+11/10/2018;Licata Rosa;Tela Leggera;Mt.;15;
+11/10/2018;ESAMI;Tela Pesante;Mt.;15;
+11/10/2018;Puzziferri Domenico;Adesivo Leggero Bianco;Mt.;4;
+12/10/2018;ESAMI;Melton;Mt.;2;
+12/10/2018;ESAMI;Tela Pesante;Mt.;15;
+12/10/2018;Puzziferri Domenico;Adesivo Leggero Bianco;Mt.;4;
+16/10/2018;Bertolotti Daniela;Tela Pesante;Mt.;15;
+17/10/2018;GRADUATE (Rosy);porta abiti lunghi;Nø.;30;
+18/10/2018;Pallini Memena;Spilli 250gr.;Nø.;1;
+18/10/2018;Saldakeeva Elena;Spilli 250gr.;Nø.;1;
