@@ -1,0 +1,37 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  { TextBox1 TextBox
+    MoveScaled(33,12,24,4)
+  }
+  { TextBox2 TextBox
+    MoveScaled(33,20,24,4)
+  }
+  { TextBox3 TextBox
+    MoveScaled(33,30,24,4)
+  }
+  { Label1 Label
+    MoveScaled(5,20,24,4)
+    Text = ("Nome")
+  }
+  { Label2 Label
+    MoveScaled(5,29,24,4)
+    Text = ("Cognome")
+  }
+  { Label3 Label
+    MoveScaled(5,38,24,4)
+    Text = ("Indirizzo")
+  }
+  { Button1 Button
+    MoveScaled(23,47,16,4)
+    Text = ("MEMO")
+  }
+  { TextBox4 TextBox
+    MoveScaled(33,38,24,4)
+  }
+  { Label4 Label
+    MoveScaled(5,12,24,4)
+    Text = ("id")
+  }
+}

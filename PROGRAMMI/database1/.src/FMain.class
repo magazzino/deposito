@@ -1,0 +1,40 @@
+' Gambas class file
+
+
+Public Sub Form_Open()
+
+   Dim sName As String   ' sName è una variabile che indica il nome che diamo al nostro database
+ Dim sPercorso As String   ' indica il percorso in cui andremo a creare il db
+ Dim $hConn As New Connection
+ 
+ sName = "dbase1"
+ sPercorso = user.home      ' definiamo come percorso la nostra home
+ 
+ With $hConn
+   .Type = "sqlite3"   ' indicazione del tipo di database da utilizzare
+   .Host = sPercorso
+   .Login = "pippo"
+   .Password = "pippo"
+ End With
+
+  If Not $hConn.Databases.Exist(sName) Then   ' verifica che il db non esista
+   $hConn.Databases.Add(sName)   ' crea il nostro db
+   $hConn.Close   ' chiude il db
+   $hConn.Name = sName
+   $hConn.Open()   ' riapre il db per l' aggiunta della tabella
+   
+' scrivere la query su un unica riga oppure separarla con i separatori &
+   sql = "CREATE TABLE 'biblio' ( 'id' INTEGER PRIMARY KEY, 'nome' VARCHAR(255) DEFAULT NULL, 'cognome' VARCHAR(255) DEFAULT NULL, 'indirizzo' VARCHAR(255) DEFAULT NULL);"
+ 
+   hTable = $hConn.EXEC(sql)
+ 
+   $hConn.Commit
+   Label1.Text = "Database creato"
+ Else
+   Message.Error("database già esistente", "OK")
+ Endif
+ 
+ $hConn.Close
+ 
+ 
+End

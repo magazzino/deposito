@@ -1,0 +1,90 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  Background = Color.Yellow
+  { Panel1 Panel
+    MoveScaled(1,1,62,14)
+    Background = Color.DarkYellow
+    Border = Border.Sunken
+    { PictureBox1 PictureBox
+      MoveScaled(2,1,14,11)
+      Picture = Picture["logoS.jpg"]
+      Stretch = True
+    }
+    { TextLabel1 TextLabel
+      MoveScaled(17,1,44,11)
+      Font = Font["San Francisco Display,Bold,+4"]
+      Foreground = Color.Yellow
+      Text = ("Istituto  C. Secoli - Milano ")
+      Alignment = Align.Center
+    }
+  }
+  { Panel2 Panel
+    MoveScaled(1,16,62,36)
+    Background = &HE17D1A&
+    { TextLabel2 TextLabel
+      MoveScaled(1,1,24,4)
+      Text = ("MISURA TAGLIO")
+      Alignment = Align.Center
+    }
+    { txtMis TextBox
+      MoveScaled(1,6,24,4)
+      Alignment = Align.Center
+    }
+    { txtNumTa TextBox
+      MoveScaled(1,18,24,4)
+      Alignment = Align.Center
+    }
+    { TextLabel3 TextLabel
+      MoveScaled(1,13,24,4)
+      Text = ("NUMERO TAGLI")
+      Alignment = Align.Center
+    }
+    { txtNumG TextBox
+      MoveScaled(5,30,24,4)
+      Font = Font["Helvetica Light,,Bold,+1"]
+      Alignment = Align.Center
+    }
+    { TextLabel4 TextLabel
+      MoveScaled(5,25,24,4)
+      Text = ("NUMERO GIRI")
+      Alignment = Align.Center
+    }
+    { txtSpesa TextBox
+      MoveScaled(32,30,24,4)
+      Font = Font["Helvetica Light,Bold,+1"]
+      Alignment = Align.Center
+    }
+    { TextLabel5 TextLabel
+      MoveScaled(32,25,24,4)
+      Text = ("SPESA TOTALE")
+      Alignment = Align.Center
+    }
+    { cbxLegg CheckBox
+      MoveScaled(32,6,24,4)
+      Text = ("TELA LEGGERA")
+    }
+    { cbxPes CheckBox
+      MoveScaled(32,18,24,4)
+      Text = ("TELAPESANTE")
+    }
+  }
+  { Panel3 Panel
+    MoveScaled(1,54,62,8)
+    Background = Color.LightForeground
+    { btnCalcola Button
+      MoveScaled(2,1,25,6)
+      Font = Font["Helvetica Rounded,Bold,+2"]
+      Background = &HFFFF00&
+      Foreground = Color.Red
+      Text = ("CALCOLARE")
+    }
+    { btnReset Button
+      MoveScaled(33,1,25,6)
+      Font = Font["Helvetica Rounded,Bold,+2"]
+      Background = &H7FFF00&
+      Text = ("PULIRE")
+    }
+  }
+}

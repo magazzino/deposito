@@ -1,0 +1,43 @@
+' Gambas class file
+
+
+
+Public Sub btnReset_Click()
+
+  txtMis.Text = ""
+  txtNumG.Text = ""
+  txtNumTa.Text = ""
+  txtSpesa.Text = ""
+  cbxLegg.Value = False
+  cbxPes.Value = False
+  
+
+End
+
+Public Sub btnCalcola_Click()
+
+  Dim dima As Float = 0.40
+  Dim misuraTaglio As Float = 0.0
+  Dim numeroTagli As Integer = 0
+  Dim spesa As Float = 0
+  Dim prezzoLegg As Float = 3.5
+  Dim prezzoPes As Float = 4.5
+  Dim giri As Float = 0.0
+  
+  misuraTaglio = txtMis.Text
+  giri = misuraTaglio / dima
+  txtNumG.Text = giri
+  
+  If cbxLegg.Value = True Then
+    txtSpesa.Text = misuraTaglio * prezzoLegg
+    
+  Else If cbxPes.Value = True Then
+    txtSpesa.Text = misuraTaglio * prezzoPes
+    
+  Else
+    Message.Error("Devi scegliere il tipo di tela")
+  Endif
+  
+  
+  
+End

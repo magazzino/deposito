@@ -1,0 +1,21 @@
+# Gambas Project File 3.0
+Title=TAGLIO
+Startup=FMain
+Version=0.0.6
+Component=gb.image
+Component=gb.gtk
+Component=gb.form
+TabSize=2
+Language=en_US
+CreateShortcut=1
+Maintainer=secoli
+Vendor=PMusocchi
+Address=musocchi.pietro@gmail.com
+License=General Public License
+PackageName=taglio-0.0.5
+Packager=1
+Systems=archlinux
+Menus=archlinux:"Applications/Graphics"
+Categories=archlinux:"Graphics"
+Groups=archlinux:"editors"
+ExtraDependencies=archlinux:"\t\t"
