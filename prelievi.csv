@@ -1,51 +1,162 @@
-Data,Prelevante,Materiale,UnitaMisura,Quantità,Note
-20/04/2018,Caputo Federica,Tela Leggera,Mt.,26,
-20/04/2018,Chiodaroli Maria Alessandra,Tela Leggera,Mt.,18,
-17/04/2018,Chiodaroli Maria Alessandra,Tela Leggera,Mt.,18,
-17/04/2018,Caputo Federica,Tela Leggera,Mt.,26,
-07/05/2018,Cristina Sarah,Tela Leggera,Mt.,2,
-25/05/2018,Puzziferri Domenico,Tela Leggera,Mt.,2,
-29/05/2018,Di Giacomo Caterina,Tela Leggera,Mt.,26,
-04/06/2018,Licata Rosa,Tela Leggera,Mt.,62,
-09/06/2018,Bertolotti Daniela,Tela Leggera,Mt.,7,
-12/06/2018,Di Giacomo Caterina,Tela Leggera,Mt.,26,
-23/06/2018,Licata Rosa,Tela Leggera,Mt.,50,
-02/07/2018,Licata Rosa,Tela Leggera,Mt.,50,
-09/07/2018,Currò Gaetano,Tela Leggera,Mt.,14,
-08/10/2018,Licata Rosa,Tela Leggera,Mt.,"13,6",
-10/10/2018,Paganotto Stefania,Tela Leggera,Mt.,40,
-11/10/2018,ESAMI,Tela Leggera,Mt.,15,
-11/10/2018,Licata Rosa,Tela Leggera,Mt.,15,
-19/10/2018,Currò Gaetano,Tela Leggera,Mt.,8,
-22/10/2018,Lanzi Patrizia,Tela Leggera,Mt.,28,
-23/10/2018,Lanzi Patrizia,Tela Leggera,Mt.,31,
-26/10/2018,Licata Rosa,Adesivo Leggero nero,Mt.,2,
-02/11/2018,Bertolotti Daniela,Tela Leggera,Mt.,29,
-02/11/2018,Bertolotti Daniela,Tessuto A,Mt.,18,
-02/11/2018,Bertolotti Daniela,Adesivo pesante Nero,Mt.,1,
-02/11/2018,Bertolotti Daniela,Tela Leggera,Mt.,29,
-02/11/2018,Bertolotti Daniela,Tessuto A(vecchio ordine),Mt.,"1,8",
-02/11/2018,Bertolotti Daniela,Adesivo pesante Nero,Mt.,1,
-06/11/2018,Saldakeeva Elena,Tela Pesante,Mt.,"2,5",
-06/11/2018,Saldakeeva Elena,Adesivo Pesante Bianco,Mt.,"2,5",
-10/11/2018,Puzziferri Domenico,Tela Leggera,Mt.,"2,5",
-10/11/2018,Puzziferri Domenico,Gomme,N°.,3,
-13/11/2018,Lanzi Patrizia,Tessuto M,Mt.,"0,9",
-13/11/2018,Lanzi Patrizia,Tessuti I,Mt.,"1,8",
-14/11/2018,Licata Rosa,Tela Orchidea Adesivata,Mt.,8,
-15/11/2018,Lanzi Patrizia,Tela Leggera,Mt.,31,
-15/11/2018,Bertolotti Daniela,Tela Leggera,Mt.,12,
-20/11/2018,Saldakeeva Elena,Tessuto C,Mt.,"1,5",
-20/11/2018,Saldakeeva Elena,Adesivo Leggero nero,Mt.,"0,5",
-20/11/2018,Lanzi Patrizia,Fodera Nera,Mt.,"0,8",
-20/11/2018,Paganotto Stefania,Tela Leggera,Mt.,20,
-26/11/2018,Lanzi Patrizia,Tessuto A,Mt.,"2,3",
-28/11/2018,Bertolotti Daniela,Jersey  Azzurro,Mt.,11,
-29/11/2018,Licata Rosa,Jersey Azzurro,Mt.,17,
-29/11/2018,Marsicovetere Maria,Jersey Azzurro,Mt.,7,
-03/12/18,Rosy Licata,bindello bianco,N°.,3,
-04/12/18,Lanzi Patrizia,Tela Leggera,Mt.,12,
-04/12/18,Lanzi Patrizia,adesivo Leggero bianco,Mt.,8,
-04/12/18,Bertolotti Daniela,Tessuto I ,Mt.,"1,5",
-04/12/18,Bertolotti Daniela,TessutoB,Mt.,1,
-04/12/18,Bertolotti Daniela,Fodera Nera,Mt.,2,
+MAGAZZINO 2019,,,,,
+PRODOTTO,FORNITORE,UNITA MISURA,GIACENZA,COSTO  unit.,VALORE
+"Adesivo cinture  h= 3,5",,rotolo,18,"€0,00 ","€ 0,00"
+"Adesivo cinture h= 5,5",,rotolo,15,"€0,00 ","€ 0,00"
+Adesivo  rotoli 7 cm. Nero ,Rota,rotoli,10,"€16,50 ","€ 165,00"
+Adesivo  rotoli 7 cm. Bianco,Rota,rotoli,18,"€16,50 ","€ 297,00"
+Adesivo Strech rotolo nero,Rota,mt,33,"€1,65 ","€ 54,45"
+Adesivo Strech rotolo bianco ,Rota,mt,96,"€2,00 ","€ 192,00"
+Adesivo Leggero nero ,Rota,mt,20,"€3,00 ","€ 60,00"
+Adesivo Pesante nero,Rota,mt,0,"€3,00 ","€ 0,00"
+Adesivo Pesante Bianco,Rota,mt,100,"€3,00 ","€ 300,00"
+Adesivo Bianco  Leggero,Rota,mt,40,"€2,35 ","€ 94,00"
+Appendini Legno,IKEA,n,70,"€1,00 ","€ 70,00"
+Appendini plastica,Donagemma,n,35,"€0,50 ","€ 17,50"
+Appendino  ferro porta gonne,ATI,n,9,"€1,20 ","€ 10,80"
+Aghi a mano 3-9,ATI,n,7,"€0,60 ","€ 4,20"
+Aghi a mano 6,ATI,n,8,"€0,60 ","€ 4,80"
+Aghi a mano 7,ATI,n,4,"€0,60 ","€ 2,40"
+Aghi a mano 10,ATI,n,5,"€0,60 ","€ 3,00"
+Aghi a mano 9,ATI,n,2,"€0,60 ","€ 1,20"
+Trilobato(gommina) 75 gr 100% ,Eurospal,mt,30,"€8,30 ","€ 249,00"
+Bindello cotone bianco,Rota,rotoli,7,"€2,00 ","€ 14,00"
+Borse Nere  con logo,Cina,n.,248,"€1,83 ","€ 453,34"
+Bindello cotone nero,Rota,rotoli,4,"€2,00 ","€ 8,00"
+Buste Bianche con Finestra,Negrisolo,n,1000,,"€ 0,00"
+Buste Bianche A5,Negrisolo,n,750,,"€ 0,00"
+Buste bianche 33x23,Negrisolo,n,500,,"€ 0,00"
+Buste Imbottite 29x42,Negrisolo,n,60,"€0,50 ","€ 30,00"
+Buste Plastica forate soffietto,Lyreco,numero,"0,00","€3,00 ","€ 0,00"
+Buste Plastica forate f.to 22x30,Lyreco,lyreco,"250,00","€0,98 ","€ 245,00"
+Buste Plastica forate f.toA3 buste  da 10,Lyreco,numero,"4,00","€6,00 ","€ 24,00"
+Blocco lavagna,Lyreco,numero,"4,00","€3,50 ","€ 14,00"
+Canetè  25 mm,Rota,mt,"50,00","€2,00 ","€ 100,00"
+Canetè  15 mm,Rota,mt,"100,00","€2,00 ","€ 200,00"
+Calicot   panna (cencio della nonna),,mt,25,"€ 1,14","€ 28,50"
+Carta 160gr risma da 250 fg,Lyreco,n. risme,"2,00","€8,50 ","€ 17,00"
+Carta 70x 100 fedrigoni,Fedrigoni,n. risme,"0,00","€27,44 ","€ 0,00"
+Carta A3 100 gr  MONDI’,Lyreco,n. risme,"6,00","€17,00 ","€ 102,00"
+Carta fotocopie 100 gr A4,Lyreco,n. risme,"3,00","€7,90 ","€ 23,70"
+Carta fotocopie fg  A4 80 GR,Lyreco,n. risme,"20,00","€2,76 ","€ 55,20"
+Carta Plotter,Lyreco,rotoli,"0,00","€9,75 ","€ 0,00"
+Carta velina Fogli,Bossotti,kg,"50,00","€2,60 ","€ 130,00"
+Cartella progetti,Lyreco,numero,0,"3,68","€ 0,00"
+Cartellette  rigide con elastico,Lyreco,numero,6,"€3,00 ","€ 18,00"
+Cartellette leggere con alette,Lyreco,numero,0,"€0,25 ","€ 0,00"
+Cartellette Stampa,Negrisolo,numero,576,,"€ 0,00"
+CD  700 MB  con logo,,numero,"170,00","€1,18 ","€ 200,60"
+Centimetri sartoria,,numero,"143,00","€0,35 ","€ 50,05"
+Cintura costruita uomo,,mt,"60,00",,"€ 0,00"
+Colla in Stick,Lyreco,numero,"9,00","€1,00 ","€ 9,00"
+Correttore  Topolino,Lyreco,numero,"8,00","€1,75 ","€ 14,00"
+Correttore liquido,Lyreco,numero,"1,00","€0,72 ","€ 0,72"
+Cotone quadretti stock,Comerina,mt,"25,00","€3,00 ","€ 75,00"
+Cotone camicia(6),,mt,"20,00","€1,80 ","€ 36,00"
+Cotone tipo boxer(7),,mt,"10,00","€1,00 ","€ 10,00"
+Custodie libretti certificazione,Negrisolo,numero,"348,00","€0,15 ","€ 52,20"
+Dorsini rileg 8mm,Lyreco,numero,"0,00","€0,22 ","€ 0,00"
+Dorsini rileg 3 mm,Lyreco,numero,"0,00","€2,13 ","€ 0,00"
+Elastici,Lyreco,kg,"2,00","€5,95 ","€ 11,90"
+Evidenziatori,Lyreco,numero,"2,00","€0,70 ","€ 1,40"
+Faldoni,Lyreco,numero,"6,00","€1,50 ","€ 9,00"
+Fermagli  58 mm,Lyreco,numero,"0,00","€3,00 ","€ 0,00"
+fermagli dorati n7,Lyreco,numero,"0,00","€1,50 ","€ 0,00"
+Faldoni amministrazione,Lireco,n,"9,00","€1,50 ","€ 13,50"
+Fermagli n 77 mm,,numero,"2,00","€5,35 ","€ 10,70"
+Fermagli n°28- 30 mm,Lyreco,numero,"0,00","€2,00 ","€ 0,00"
+Fermagli n° 58 mm,Lyreco,numero,"1,00","€1,50 ","€ 1,50"
+Fodera nera,Rota,mt,"22,00","€1,98 ","€ 43,56"
+Fogli per lavagna,Lyreco,n,"4,00","€4,90 ","€ 19,60"
+Gomme,Lyreco,numero,"5,00","€0,44 ","€ 2,20"
+Gommina Eurospall bianca,,mt,11,"€ 4,85","€ 53,35"
+Gommina Eurospall nera,,mt,30,"€ 5,04","€ 151,20"
+Gommina Pangomma,,mt,"10,00","€8,30 ","€ 83,00"
+Grucce in legno,,numero,"12,00","€0,75 ","€ 9,00"
+Guide magnetiche,ATI,numero,"69,00","€3,00 ","€ 207,00"
+jersey bianco (mancuso),Mancuso,mt,"18,00","€3,00 ","€ 54,00"
+jersey nero mancuso,Mancuso,mt,"7,00","€3,00 ","€ 21,00"
+Jersey grigio (5),,mt,"43,00","€4,90 ","€ 210,70"
+Jersey beige,,mt,"10,00","€4,90 ","€ 49,00"
+jersey bianco ,,mt,"49,30","€4,90 ","€ 241,57"
+Kit  Macchina cucire USATI,,numero,"1,00","€33,50 ","€ 33,50"
+kit Macchina cucito NEW,,numero,"17,00","€33,50 ","€ 569,50"
+Kit scatole vuote,,numero,"19,00","€4,30 ","€ 81,70"
+tessuto lana quadretti,Comerima,mt,"24,00","€8,50 ","€ 204,00"
+tessuto lana stock (9),Comerima,mt,"12,00","€8,50 ","€ 102,00"
+Lana Spigato Stock (8),Comerima,mt,"1,50","€5,00 ","€ 7,50"
+Lana galles (4),Comerima,mt,"20,00","€5,00 ","€ 100,00"
+Lana grigio nero (1),Comerima,mt,"0,00","€5,00 ","€ 0,00"
+Lampo cm 20 normali,Rota,n,"75,00","€0,30 ","€ 22,50"
+Lampo cm 22 invisibile,Rota,n,"25,00","€0,30 ","€ 7,50"
+Levapunti,Lyreco,n,"1,00","€2,90 ","€ 2,90"
+"Mine 0,5",Lyreco,numero,"19,00","€1,10 ","€ 20,90"
+"Mine 0,7 mm",Lyreco,numero,"4,00","€0,90 ","€ 3,60"
+"P.ta mine 0, 7 mm",Lyreco,numero,"0,00","€1,50 ","€ 0,00"
+"P.ta mine 0,5 mm",Lyreco,numero,"15,00","€1,50 ","€ 22,50"
+Pellicola per imballaggi,Lyreco,rotoli,"1,00","€12,50 ","€ 12,50"
+Pennarelli kit 4 colori,Lyreco,numero,"0,00","€2,50 ","€ 0,00"
+Pennarelli Pentel Blu,Lyreco,numero,"0,00","€1,00 ","€ 0,00"
+Pennarelli Pentel Rossi,Lyreco,numero,"0,00","€1,00 ","€ 0,00"
+Penne Bic  blu,Lyreco,numero,"50,00","€0,19 ","€ 9,50"
+Penne Bic nere,Lyreco,numero,"50,00","€0,19 ","€ 9,50"
+Penne Bic Rosse,Lyreco,numero,"12,00","€0,20 ","€ 2,40"
+Pennerelli Pentel Neri,Lyreco,numero,"3,00","€1,00 ","€ 3,00"
+Porta abiti corti soffietto,Ital Copri,numero,"72,00","€3,45 ","€ 248,40"
+Porta abiti corti,Ital Copri,numero,"56,00","€2,90 ","€ 162,40"
+Porta abiti lunghi soffietto,Ital Copri,numero,"19,00","€4,80 ","€ 91,20"
+Porta abiti lunghi,Ital Copri,numero,"0,00","€3,45 ","€ 0,00"
+Porta abiti sposa ,Ital Copri,numero,"35,00","€3,75 ","€ 131,25"
+Post-it grandi 76x76 ,Lyreco,numero,"0,00","€4,00 ","€ 0,00"
+Post-it piccoli blocchetti medi,Lyreco,numero,"0,00","€0,80 ","€ 0,00"
+Post-it piccoli blocchetti piccoli,Lyreco,numero,"50,00","€1,80 ","€ 90,00"
+profumo per bagno,  ,numero,"19,00","€11,70 ","€ 222,30"
+Punteruoli,Donagemma,numero,"78,00","€3,10 ","€ 241,80"
+Punti graffettatrice (x 1000),Lyreco,numero,"30,00","€0,83 ","€ 24,90"
+Raccoglitori Dispense,Negrisolo,numero,"4,00","€4,70 ","€ 18,80"
+Righelli metallici,Ati,numero,"83,00","€2,50 ","€ 207,50"
+Rocche fili nero,Cucirini,numero,"25,00","€2,00 ","€ 50,00"
+Rocche filo bianco,Cucirini,numero,"10,00","€2,00 ","€ 20,00"
+"Rotoli Cartone plotter rotoli da 10,6 kg",Bossotti,mt,"157,80","€2,40 ","€ 378,72"
+Rotoli Cartone modelli,Bossotti,mt,"60,00","€2,40 ","€ 144,00"
+Sapone lavamani per dispenser,cartemani,dosi,3,"€ 6,00","€ 18,00"
+Scalimetri,Fara Design,numero,"493,00","€0,66 ","€ 325,38"
+Scotch da Pacchi Avana,Lyreco,numero,"13,00","€2,85 ","€ 37,05"
+Scotch in Carta,Lyreco,numero,"3,00","€1,72 ","€ 5,16"
+Scotch magic,Lyreco,numero,"19,00","€2,90 ","€ 55,10"
+Scotch rotolo grande,Lyreco,numero,"2,00","€1,72 ","€ 3,44"
+Separatori alfabetici,Lyreco,numero,"0,00","€5,00 ","€ 0,00"
+Separatori numerici,Lyreco,numero,"9,00","€3,00 ","€ 27,00"
+Separatori Neuri,Lyreco,numero,"0,00","€2,00 ","€ 0,00"
+Silesia bianca,Rota,mt,"80,00","€2,69 ","€ 215,20"
+Silesia nera,Rota,mt,"75,00","€3,30 ","€ 247,50"
+Spago,,rotoli,"6,00","€2,87 ","€ 17,22"
+spilli 250gr,ATI,scatole,"5,00","€7,00 ","€ 35,00"
+Squadrette,Tigulio,numero,"425,00","€3,00 ","€ 1.275,00"
+Strisce forate,,numero,"1,00","€1,96 ","€ 1,96"
+Tela 140 panna greggio,,mt,7,"€ 1,97","€ 13,79"
+Tela leggera adesivizzata, ,mt,"195,00","€7,00 ","€ 1.365,00"
+Tela Pesante ,Rota,mt,"250,00","€2,69 ","€ 672,50"
+Tela Orchidea/greggia,Rota,mt,"150,00","€2,21 ","€ 331,50"
+Termoadesivo 150 art 50/DP,,mt,100,"€ 1,43","€ 143,00"
+tessuto lana double  rosa(3),,mt,"4,00","€8,50 ","€ 34,00"
+tessuto lana(2),,mt,"17,00","€5,00 ","€ 85,00"
+Tessuto per smoking,Cacioppoli,mt,"12,00","€47,00 ","€ 564,00"
+Tropical tasche,,mt,22,"€ 2,97","€ 65,34"
+Tubi porta diplomi,Ratioform,numero,"180,00","€1,36 ","€ 244,80"
+Melton ,,mt,0,"€ 5,00","€ 0,00"
+Tappo forever ferri stiro,,numero,1,"€ 12,00","€ 12,00"
+Guarnizioni tappi forever,,numero,8,"€ 1,36","€ 10,88"
+Capsula Siruba ,,numero,50,"€ 2,20","€ 110,00"
+Capsula Pfaff,,numero,31,"€ 5,50","€ 170,50"
+Spoline Siruba,,numero,51,"€ 0,40","€ 20,40"
+Spoline Pfaff,,numero,33,"€ 0,50","€ 16,50"
+Cacciavite Piedino ,,numero,53,"€ 1,10","€ 58,30"
+Cacciavite Ago ,,numero,51,"€ 0,90","€ 45,90"
+Piedino  Mezzodestro,,numero,42,"€ 2,85","€ 119,70"
+Piedino Standard,,numero,32,"€ 3,40","€ 108,80"
+Piedino Cerniera invisibile,,,20,"€ 3,40","€ 68,00"
+Piedino Compensatore,,numero,46,"€ 3,00","€ 138,00"
+Porta Immondizia ,Manutan,numero,21,"€ 17,00","€ 357,00"
+Ricambi sedia Bianchi,Armet,numero,97,"€ 10,00","€ 970,00"
+Ricambi sedia grigi,Armet,numero,0,"€ 10,00","€ 0,00"
+,,,,,"€ 15.863,03"
